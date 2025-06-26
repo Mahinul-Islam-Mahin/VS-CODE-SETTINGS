@@ -1,7 +1,5 @@
 # Visual Studio Code Customization
 
-## 📝
-
 <h1>My Personal VS Code Setting.jason and My Fav Extensions</h1>
 
 ## 🛠 VS Code Settings
